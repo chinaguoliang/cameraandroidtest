@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.hua.cameraandroidtest"
+        minSdkVersion 8
+        targetSdkVersion 19
+
+        ndk {
+            moduleName "ffmpeg"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:20.0.0'
+}

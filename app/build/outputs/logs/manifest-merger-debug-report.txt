@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:1:1-80:12
+	package
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:20.0.0] F:\videoProjectTest\Ascameraandroidtest\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+		INJECTED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:10:6-82
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:10:23-79
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.VIBRATE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:19:22-70
+uses-permission#com.google.android.gm.permission.WRITE_GMAIL
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:20:5-84
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:20:22-81
+uses-permission#com.google.android.gm.permission.READ_GMAIL
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:21:5-83
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:21:22-80
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:27:22-71
+uses-permission#android.permission.NFC
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:28:5-62
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:28:22-59
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:29:22-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:30:22-77
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:31:22-71
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:32:5-92
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:32:22-89
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:33:5-82
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:33:22-79
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:34:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.INTERNET
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:36:5-67
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:36:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:38:5-81
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:38:22-78
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:39:22-76
+uses-permission#android.permission.WRITE_USER_DICTIONARY
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:40:5-80
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:40:22-77
+uses-permission#android.permission.BATTERY_STATS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:41:5-72
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:41:22-69
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:42:5-85
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:42:22-82
+uses-permission#com.android.launcher.permission.WRITE_SETTINGS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:43:5-86
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:43:22-83
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:44:5-79
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:44:22-76
+uses-permission#android.permission.CAMERA
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:46:5-65
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:46:22-62
+uses-permission#android.permission.SET_TIME_ZONE
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:48:5-72
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:48:22-69
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:52:5-68
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:52:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:54:5-71
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:54:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:55:5-74
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:55:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:56:5-80
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:56:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:59:5-68
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:59:22-65
+uses-feature#android.hardware.camera
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:61:5-60
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:61:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:62:5-70
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:62:19-67
+application
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:64:5-78:19
+MERGED from [com.android.support:support-v4:20.0.0] F:\videoProjectTest\Ascameraandroidtest\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:67:9-41
+	android:allowBackup
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:65:9-35
+	android:icon
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:66:9-45
+	android:theme
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:68:9-40
+activity#com.hua.cameraandroidtest.MainActivity
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:70:9-77:20
+	android:screenOrientation
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:72:13-50
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:71:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.MAIN
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from F:\videoProjectTest\Ascameraandroidtest\app\src\main\AndroidManifest.xml:75:27-74
